@@ -1,11 +1,27 @@
 ### Hi there 👋
 
-I am Anas based in Germany, I started learning programming in the end of 2021 in my collage https://www.htwsaar.de/. I really enjoy working on my Desk, learning new stuff about programming, as well as designing.
+I'm Anas, based in Germany. I began my programming journey at the end of 2021 while studying at htwsaar. I have a passion for working at my desk, continuously learning new programming skills, and diving into design.
 
-I got a pretty good experience in UI/UX, so I wanted to start putting it in use, in learning Software development in both front and back end.
+With a strong background in UI/UX, I've been channeling this experience into my software development journey, focusing on both front-end and back-end development.
+
+## Education
+```text
+Bachelor's Degree in Computer Science - 2024 - https://www.htwsaar.de/
+```
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasZahra&show_icons=true&theme=radical)
+
+
+<div align="center">
+    <h1></h1>
+    <a href="[https://data-card-for-spotify.herokuapp.com](https://data-card-for-spotify.herokuapp.com/card?user_id=hcj191jk5nnqe2haxs3348bx2)">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=hcj191jk5nnqe2haxs3348bx2" alt="Data Card for Spotify">
+    </a>
+    <br>
+    <br>
+    <p>Dynamically generated Spotify data to embed in your README or website</p>
+    <br>
+</div>
 
