@@ -9,19 +9,19 @@ With a strong background in UI/UX, I've been channeling this experience into my 
 Bachelor's Degree in Computer Science - 2024 - https://www.htwsaar.de/
 ```
 
+<hr>
+<br>
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,aws,vue,nodejs,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=wordpress,webflow,xd,figma)](https://skillicons.dev)
 
-<div align="center">
-    <h1></h1>
-    <a href="[https://data-card-for-spotify.herokuapp.com](https://data-card-for-spotify.herokuapp.com/card?user_id=hcj191jk5nnqe2haxs3348bx2)">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=hcj191jk5nnqe2haxs3348bx2" alt="Data Card for Spotify">
-    </a>
-    <br>
-    <br>
-    <p>Dynamically generated Spotify data to embed in your README or website</p>
-    <br>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,unreal)](https://skillicons.dev)
 
+<br>
+
+<hr>
