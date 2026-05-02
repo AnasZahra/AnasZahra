@@ -1,27 +1,32 @@
-### Hi there 👋
+# Hey, I'm Anas 👋
 
-I'm Anas, based in Germany. I began my programming journey at the end of 2021 while studying at htwsaar. I have a passion for working at my desk, continuously learning new programming skills, and diving into design.
+I design, build, and experiment with digital products.  
+My work sits between UI/UX, frontend development, branding, and practical AI tools.
 
-With a strong background in UI/UX, I've been channeling this experience into my software development journey, focusing on both front-end and back-end development.
+I like turning ideas into clean interfaces, useful workflows, and polished digital experiences.
 
-## Education
-```text
-Bachelor's Degree in Computer Science - 2024 - https://www.htwsaar.de/
-```
+## Focus
 
-<hr>
-<br>
+- Web apps and frontend systems
+- UI/UX and visual design
+- Brand identities and digital presence
+- AI tools, automation, and smarter workflows
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,aws,vue,nodejs,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,vue,nodejs,dotnet,cs,java,python,fastapi,postgres,supabase,github,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
+## AI Tools
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,webflow,xd,figma)](https://skillicons.dev)
+<p>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons//openai.svg" width="42" title="OpenAI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="42" title="Codex" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="42" title="Claude" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/copilot-color.svg" width="42" title="GitHub Copilot" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="42" title="Gemini" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" width="42" title="Perplexity" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,blender,unreal)](https://skillicons.dev)
+## Design Tools
 
-<br>
-
-<hr>
+[![Design](https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,blender)](https://skillicons.dev)
