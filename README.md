@@ -19,7 +19,7 @@ I like turning ideas into clean interfaces, useful workflows, and polished digit
 ## AI Tools
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons//openai.svg" width="42" title="OpenAI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="42" title="OpenAI" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="42" title="Codex" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="42" title="Claude" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/copilot-color.svg" width="42" title="GitHub Copilot" />
